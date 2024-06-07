@@ -15,7 +15,7 @@ export class LaboratorioComponent {
    "instalar clic",
    "crear pagina",
    "crear componentes",
-   "crear servicio"
+   "crear serv"
   ];
   name = "sergio";
   age = "17 ";
