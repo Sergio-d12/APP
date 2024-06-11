@@ -1,7 +1,7 @@
 import { Routes } from '@angular/router';
 
-import {CasaComponent} from './pagina/casa/casa.component';
 import {LaboratorioComponent} from './pagina/laboratorio/laboratorio.component';
+import { CasaComponent } from './pagina/casa/casa.component';
 export const routes: Routes = [ 
    {
     path: '',
